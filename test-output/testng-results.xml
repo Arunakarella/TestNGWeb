@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-21T11:50:02 GST" name="Default suite" finished-at="2021-12-21T11:50:13 GST" duration-ms="10204">
+    <groups>
+    </groups>
+    <test started-at="2021-12-21T11:50:02 GST" name="Default test" finished-at="2021-12-21T11:50:13 GST" duration-ms="10204">
+      <class name="DDtestng.screenshotTest">
+        <test-method signature="testDDtestng()[pri:0, instance:DDtestng.screenshotTest@54422e18]" started-at="2021-12-21T11:50:02 GST" name="testDDtestng" finished-at="2021-12-21T11:50:13 GST" duration-ms="10168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDDtestng -->
+      </class> <!-- DDtestng.screenshotTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
